@@ -1,0 +1,5 @@
+[07-Mar-2023 12:52:11 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\TeamController, because the name is already in use in /home/pfcd41fi75r0/maverick/app/Admin/Controllers/TeamController.php on line 0
+[07-Mar-2023 12:56:16 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\TeamController, because the name is already in use in /home/pfcd41fi75r0/maverick/app/Admin/Controllers/TeamController.php on line 0
+[07-Mar-2023 12:58:03 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\TeamController, because the name is already in use in /home/pfcd41fi75r0/maverick/app/Admin/Controllers/TeamController.php on line 0
+[07-Mar-2023 12:58:06 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\TeamController, because the name is already in use in /home/pfcd41fi75r0/maverick/app/Admin/Controllers/TeamController.php on line 0
+[10-May-2023 13:19:22 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\SubserviceController, because the name is already in use in /home/pfcd41fi75r0/maverick/app/Admin/Controllers/SubserviceController.php on line 0
